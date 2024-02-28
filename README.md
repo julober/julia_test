@@ -13,4 +13,4 @@ Julia is a data management specialist at the NSIDC. She has worked on previous p
 Email: [julia.lober@outlook.com](mailto:julia.lober@outlook.com)
 
 ## Collaborator
-Alex Ravelo has joind this project on 2/28/24 as part of R course practice.
+Alex Ravelo has joined this project on 2/28/24 as part of R course practice.
